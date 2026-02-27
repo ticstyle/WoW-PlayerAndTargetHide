@@ -1,0 +1,8 @@
+## Interface: 120001, 11508
+## Title: PlayerAndTargetHide |cff9966ff<dualityps>
+## Notes: Minimalist script to hide default player and target frames.
+## Author: dualityps
+## Version: v2.0.0
+## DefaultState: enabled
+
+PlayerAndTargetHide.lua
